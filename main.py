@@ -136,3 +136,11 @@ Please format the resume clearly with sections like:
                 except Exception as e:
                     st.error(f"❌ Error: {str(e)}")
 
+# Footer Section
+st.markdown("<hr style='margin-top: 40px; margin-bottom: 10px;'>", unsafe_allow_html=True)
+st.markdown(
+    "<p style='text-align: center; font-size: 14px;'>👨‍💻 Created by <strong>Subha Sajjad</strong></p>",
+    unsafe_allow_html=True
+)
+
+

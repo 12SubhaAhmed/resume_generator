@@ -1,8 +1,8 @@
 import streamlit as st
 #import fitz
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 import os
-import google.generativeai as genai
+#import google.generativeai as genai
 
 # Load environment variables
 load_dotenv()

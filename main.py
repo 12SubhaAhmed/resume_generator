@@ -1,5 +1,5 @@
 import streamlit as st
-#import fitz
+import fitz
 from dotenv import load_dotenv
 import os
 import google.generativeai as genai
